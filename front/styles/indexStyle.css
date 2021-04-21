@@ -1,0 +1,19 @@
+.titulo{
+  font-size: xx-large;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.contain_title{
+  padding-top: 16%;
+  max-height: 10vh;
+}
+#navbarToggler{
+  align-content: flex-end;
+}
+hr{
+  margin-top: 0;
+  padding-top: 0;
+  height: 7px;
+  width: 50%;
+  background-color: #007bff;
+}
